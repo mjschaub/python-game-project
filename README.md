@@ -1,5 +1,5 @@
 # python-game-project
-This contains the source code for a school project I was a part of with a partner. Feel free to try it out.
+This contains the source code for a school project I was a part of with a partner my senior year of high school. Feel free to try it out.
 
 ## Setup
 
