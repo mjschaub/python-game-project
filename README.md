@@ -11,7 +11,7 @@ This contains the source code for a school project I was a part of with a partne
 #### Get pygame if you don't already
     apt-get install python-pygame
   
-#### pip install any other dependencies your system is missing.
+pip install any other dependencies your system is missing.
   
 #### Finally, do the following command to run it:
   `python test.py` 
